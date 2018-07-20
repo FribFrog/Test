@@ -26,7 +26,7 @@ print("TestBot: So what now?")
 time.sleep(1.5)
 r = input("TestBot: Ooh I know, How about I tell you a riddle (reply with \"sure\" if you want to hear a riddle, reply with \"no\" if you do not want to hear a riddle)")
 if r == ("sure"):
-    a = input("What is 
+    a = input("What is")
 
 
 
